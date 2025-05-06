@@ -1,7 +1,7 @@
 ## Hi there, I'm Adriano Ferane Gunawan 👋
 
-#### 🎓 Currently studying Informatik at FH Aachen  
-#### 📧 Email: [adrianof.gnwn@gmail.com](mailto:adrianof.gnwn@gmail.com)
+🎓 Currently studying Informatik at FH Aachen  
+📧 Email: [adrianof.gnwn@gmail.com](mailto:adrianof.gnwn@gmail.com)
 
 
 <!--
