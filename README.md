@@ -1,6 +1,8 @@
-## Hi there, Im Adriano Ferane Gunawan 👋
-🎓 Currently studying Informatik at FH Aachen
-📧 Email: adrianof.gnwn@gmail.com
+## Hi there, I'm Adriano Ferane Gunawan 👋
+
+#### 🎓 Currently studying Informatik at FH Aachen  
+#### 📧 Email: [adrianof.gnwn@gmail.com](mailto:adrianof.gnwn@gmail.com)
+
 
 <!--
 **adrianofgnwn/adrianofgnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
