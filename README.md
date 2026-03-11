@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Adriano Ferane Gunawan 👋<br>
-🎓 Im a Computer Science student
+🎓 Im a computer science student at FH Aachen
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianofgnwn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianof.gnwn@gmail.com) 
